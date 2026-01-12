@@ -1,8 +1,12 @@
 ## Hi there 👋 My name is Jasman Kaur
 
-💻 B.Tech CSE Student  
-🌱 Learning Web Development & Machine Learning  
+💻 B.Tech Computer Engineering student
+🌱 Full-stack & ML projects  
+React • JavaScript • Python • NLP • SQL 
 🚀 Projects and experiments live here
+ 
+Building real-world systems — portfolio & ML apps below 👇
+
 
 ## 📊 GitHub Stats
 
