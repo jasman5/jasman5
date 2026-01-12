@@ -1,29 +1,27 @@
 ## Hi there 👋 My name is Jasman Kaur
 
 💻 B.Tech Computer Engineering student
-🌱 Full-stack & ML projects  
-React • JavaScript • Python • NLP • SQL 
-🚀 Projects and experiments live here
- 
-Building real-world systems — portfolio & ML apps below 👇
-
+🌱 Building real-world systems — portfolio & ML apps below 👇
+🔹 Comfortable with React, Python, SQL, REST APIs
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasman5&show_icons=true&theme=dark" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=jasman5&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasman5&layout=compact&theme=dark" />
-</p>
+### 🚀 Featured Projects
+• Fake Job Posting Detection (NLP, ML, Flask) – 97.5% accuracy  
+• Ridezon – Student Ride-Sharing Platform (TypeScript, SE design)  
+• Portfolio Website (HTML, CSS, JS)
+
+### 🛠 Tech Stack
+Frontend: HTML, CSS, JavaScript, React  
+Backend: Python, Flask, REST APIs  
+ML: NLP, TF-IDF, Naive Bayes  
+Tools: Git, GitHub, VS Code
 
 
-### personal links 
+### Personal Links 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/jasman05")
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/jasmann_05)
 
