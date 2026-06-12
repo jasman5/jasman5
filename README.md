@@ -75,13 +75,13 @@ B.Tech Computer Engineering student at Thapar Institute (2023–27), building re
 
 ---
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jasman05)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jasmann_05)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jasmankaur30@gmail.com)
+### 📊 GitHub Analytics:
+![](https://streak-stats.demolab.com/?user=jasman5&theme=neon&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jasman5&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-### 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=jasman5&theme=neon&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jasman5&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jasman05)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jasmann_05)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jasmankaur30@gmail.com)
