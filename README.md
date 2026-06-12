@@ -83,5 +83,5 @@ B.Tech Computer Engineering student at Thapar Institute (2023–27), building re
 ---
 
 ### 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=jasman5&theme=neon&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=jasman5&theme=neon&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jasman5&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
