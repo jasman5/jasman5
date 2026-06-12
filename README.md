@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hi there 👋 
-###I'm Jasman Kaur<br><br>
+### I'm Jasman Kaur<br><br>
 🎓 B.Tech Computer Engineering @ Thapar Institute of Engineering & Technology (2023–2027) | CGPA: 7.65<br>💻 Building real-world systems — from ML pipelines to enterprise web apps<br>
 🏢 Currently interning as SDE @ **Vardhaman Textiles Ltd.** — building a QR-based Visitor Management System (PHP, MySQL, JS)<br>
 🌱 Currently learning: **Cloud (AWS/Azure)**, advancing full-stack skills with Node.js & React<br>🤝 Looking to collaborate on: **ML projects, full-stack web apps, open-source tools, consulting/analytics side projects**<br>
