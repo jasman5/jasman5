@@ -1,13 +1,13 @@
 ### Hi there, Jasman this side 👋
 
 🎓 B.Tech Computer Engineering @ Thapar Institute of Engineering & Technology (2023–2027)<br>
-💻 Building real-world systems — from ML pipelines to enterprise web apps<br>
+💻 Building real-world systems: from ML pipelines to enterprise web apps<br>
 🏢 Currently interning as SDE @ **Vardhaman Textiles Ltd.** — building a QR-based Visitor Management System (PHP, MySQL, JS)<br>
-🌱 Currently learning: **Cloud (AWS/Azure)**, advancing full-stack skills with Node.js & React<br>
-🎯 Prepping for campus placements — targeting tech + consulting-tech hybrid roles<br>
+🌱 Currently learning: Cloud, advancing full-stack skills with Node.js & React<br>
+🎯 Prepping for campus placements: targeting tech + consulting-tech hybrid roles<br>
 🤝 Looking to collaborate on: **ML projects, full-stack web apps, open-source tools, consulting/analytics side projects**<br>
 🙋 Ask me about: **NLP, system design, SRS writing, React, Python, or breaking into consulting-tech roles**<br>
-⚡ Fun fact: I've generated **5M+ organic views** for a university society's social media — and I can also swim, anchor events, and lead a band 🎵
+⚡ Fun fact: I've generated **5M+ organic views** for a university society's social media — and I can also swim, anchor events, and lead a band.
 
 ---
 
