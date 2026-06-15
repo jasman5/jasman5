@@ -1,6 +1,5 @@
-## Hi there, Jasman this side 👋
-
-B.Tech Computer Engineering student at Thapar Institute (2023–27), building real-world systems from ML pipelines to enterprise web apps. Currently interning as SDE @ **Vardhaman Textiles Ltd.**, developing a QR-based Visitor Management System. Passionate about the intersection of tech and consulting — targeting hybrid roles where engineering meets business impact.
+##  Jasman Kaur
+B.Tech Computer Engineering @ Thapar Institute (2023–27), building predictive ML models, real-time telemetry pipelines, and scalable backends. Currently interning as SDE @ Vardhaman Textiles, shipping production systems. Into frontend,full stack,edge ai, robotics, AI, and wherever low-latency meets high impact.
 
 - 🏢 **SDE Intern @ VYTL** — building intranet VMS (PHP, MySQL, JS)
 - 🤝 **Looking to collaborate on:** ML projects, full-stack apps, open-source tools
