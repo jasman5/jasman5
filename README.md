@@ -53,16 +53,6 @@ Building predictive ML models, real-time telemetry pipelines, and scalable backe
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **VYTL VMS** | Enterprise Visitor Management System for Vardhaman Textiles intranet | PHP, MySQL, JS |
-| **Fake Job Posting Detection** | NLP classifier with 97.5% accuracy | Python, ML, Flask |
-| **Ridezon** | Student ride-sharing platform with full IEEE SRS documentation | TypeScript, SE Design |
-| **Virsa Society Website** | Production site with 50+ deployments | Next.js, TypeScript, Tailwind |
-
----
 
 ## Currently
 
