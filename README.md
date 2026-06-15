@@ -10,8 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=jasman5&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
-### B.Tech Computer Engineering · Thapar Institute of Engineering & Technology (2023–27)
-
+### B.Tech Computer Engineering · TIET27
 Building predictive ML models, real-time telemetry pipelines, and scalable backends. Currently interning as SDE @ Vardhaman Textiles, shipping production systems. Into full-stack, edge AI, robotics, and wherever low-latency meets high impact.
 
 ---
