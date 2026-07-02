@@ -56,10 +56,9 @@ Building predictive ML models, real-time telemetry pipelines, and scalable backe
 
 ## Currently
 
-* 🏢 **SDE Intern @ VYTL** — building intranet VMS in production
-* 🌱 **Learning:** Cloud (AWS/Azure), Node.js, React
+* 🏢 **SDE Intern @ VYTL** — building intranet VMS (Visitor management system)
 * 🤝 **Open to collaborate on:** ML projects, full-stack apps, open-source tools
-* 🙋 **Ask me about:** NLP, system design, SRS writing, breaking into consulting-tech
+* 🙋 **learning:** NLP, system design, SRS writing, breaking into consulting-tech
 
 ---
 
