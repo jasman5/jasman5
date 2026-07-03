@@ -11,7 +11,7 @@
 </p>
 
 ### B.Tech Computer Engineering · TIET27
-Building predictive ML models, real-time telemetry pipelines, and scalable backends. Currently interning as SDE @ Vardhaman Textiles, shipping production systems. Into full-stack, edge AI, robotics, and wherever low-latency meets high impact.
+Computer Engineering student building full-stack systems, predictive ML models, and LLM-powered tools. Currently interning as an SDE @ Vardhaman Yarn and Threads Ltd. (VYTL), shipping a production QR-based Visitor Management System across 5+ locations. Into full-stack development, applied AI/NLP, robotics, and edge deployment.
 
 ---
 
@@ -42,24 +42,18 @@ Building predictive ML models, real-time telemetry pipelines, and scalable backe
     </td>
   </tr>
 </table>
-
 ---
 
 ## Core Technical Focus
-
-* **ML & NLP Engineering:** Training and deploying predictive models with high accuracy; building NLP pipelines for real-world classification tasks.
-* **Full Stack Development:** Architecting production-grade web systems across the stack — from PHP/MySQL backends to Next.js + TypeScript frontends.
-* **Systems & Embedded:** Designing low-latency embedded systems with Arduino, Raspberry Pi, and ROS for robotics applications.
-
+* **Full Stack Development:** Building production-grade web systems end-to-end — PHP/MySQL backends, React.js/Next.js + TypeScript frontends, REST APIs, and Firebase-backed apps.
+* **AI/ML & LLM Engineering:** Working with Python, LLM deployment, and agent frameworks; applying AI tools (Claude, NVIDIA Gen AI stack) to real-world classification and automation tasks.
+* **Systems & Embedded:** Designing embedded systems and automation workflows with Arduino, MATLAB, and robotics platforms (RoboStudio), grounded in Software Requirements Specification (SRS) and system design practices.
 ---
 
-
 ## Currently
-
-* 🏢 **SDE Intern @ VYTL** — building intranet VMS (Visitor management system)
-* 🤝 **Open to collaborate on:** ML projects, full-stack apps, open-source tools
-* 🙋 **learning:** NLP, system design, SRS writing, breaking into consulting-tech
-
+* 🏢 **SDE Intern @ Vardhaman Yarn and Threads Ltd. (VYTL)** — built a QR Visitor Management System (PHP, JavaScript, MySQL) across 5+ locations, cutting visitor processing time by 40% for 1000+ visitors; authored a 4-phase SRS covering auth, workflows, security, and reporting
+* 🤝 **Open to collaborate on:** ML/LLM projects, full-stack apps, open-source tools
+* 🙋 **Learning:** NLP, system design, SRS writing, and breaking into consulting-tech
 ---
 
 ## Development Performance
