@@ -57,5 +57,8 @@ Computer Engineering student building full-stack systems, predictive ML models, 
 ---
 
 ## Development Performance
-![](https://streak-stats.demolab.com/?user=jasman5&theme=neon&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jasman5&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=jasman5&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jasman5&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150"/>
+</p>
+
