@@ -45,15 +45,15 @@ Computer Engineering student building full-stack systems, predictive ML models, 
 ---
 
 ## Core Technical Focus
-* **Full Stack Development:** Building production-grade web systems end-to-end — PHP/MySQL backends, React.js/Next.js + TypeScript frontends, REST APIs, and Firebase-backed apps.
-* **AI/ML & LLM Engineering:** Working with Python, LLM deployment, and agent frameworks; applying AI tools (Claude, NVIDIA Gen AI stack) to real-world classification and automation tasks.
+* **Full Stack Development:** Building production-grade web systems end-to-end PHP/MySQL backends, React.js/Next.js + TypeScript frontends, REST APIs, and Firebase backed apps.
+* **AI/ML:** Working with Python, LLM deployment, and agent frameworks; applying AI tools (Claude, NVIDIA Gen AI stack) to real world classification and automation tasks.
 * **Systems & Embedded:** Designing embedded systems and automation workflows with Arduino, MATLAB, and robotics platforms (RoboStudio), grounded in Software Requirements Specification (SRS) and system design practices.
 ---
-
+ 
 ## Currently
-* 🏢 **SDE Intern @ Vardhaman Yarn and Threads Ltd. (VYTL)** — built a QR Visitor Management System (PHP, JavaScript, MySQL) across 5+ locations, cutting visitor processing time by 40% for 1000+ visitors; authored a 4-phase SRS covering auth, workflows, security, and reporting
-* 🤝 **Open to collaborate on:** ML/LLM projects, full-stack apps, open-source tools
-* 🙋 **Learning:** NLP, system design, SRS writing, and breaking into consulting-tech
+*  **SDE Intern @ Vardhaman Yarn and Threads Ltd. (VYTL)** — built a QR Visitor Management System (PHP, JavaScript, MySQL) across 5+ locations, cutting visitor processing time by 40% for 1000+ visitors; authored a 4-phase SRS covering auth, workflows, security, and reporting
+*  **Open to collaborate on:** ML/LLM projects, full-stack apps, open-source tools
+*  **Learning:** NLP, system design, SRS writing, and breaking into consulting-tech
 ---
 
 ## Development Performance
