@@ -11,7 +11,7 @@
 </p>
 
 ### B.Tech Computer Engineering · TIET27
-Computer Engineering student building full-stack systems, predictive ML models, and LLM-powered tools. Currently interning as an SDE @ Vardhaman Yarn and Threads Ltd. (VYTL), shipping a production QR-based Visitor Management System across 5+ locations. Into full-stack development, applied AI/NLP, robotics, and edge deployment.
+Computer Engineering student building full-stack systems,  ML models, and LLM-powered tools. Currently an SDE intern @ Vardhaman Yarn and Threads Ltd. (VYTL), shipping a production QR-based Visitor Management System across 5+ locations. Into full-stack development, applied AI/NLP, robotics, and edge deployment.
 
 ---
 
